@@ -1,2 +1,1 @@
-# Minhas analise de dados 
- Minhas analises de dados 
+# aqui nesse repositorio você ira ter exemplos que eu mesmo fiz de fraficos, e analise de dados 
